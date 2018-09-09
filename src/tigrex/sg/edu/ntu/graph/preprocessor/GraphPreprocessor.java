@@ -25,7 +25,7 @@ import tigrex.sg.edu.ntu.utility.FileUtility;
  * same path with added ".sim" extension. The mapping will be written as well,
  * with an extension ".newId" and ".newTime".
  *
- * @author Tigrex
+ * @author Ni Peng
  *
  */
 public class GraphPreprocessor {
